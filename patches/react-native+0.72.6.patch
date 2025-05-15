@@ -1,0 +1,36 @@
+diff --git a/node_modules/react-native/Libraries/DeprecatedPropTypes/ColorPropType.js b/node_modules/react-native/Libraries/DeprecatedPropTypes/ColorPropType.js
+index 0000000..1111111 100644
+--- a/node_modules/react-native/Libraries/DeprecatedPropTypes/ColorPropType.js
++++ b/node_modules/react-native/Libraries/DeprecatedPropTypes/ColorPropType.js
+@@ -1,3 +1,3 @@
+-const ColorPropType = require('prop-types');
++const ColorPropType = require('deprecated-react-native-prop-types');
+ 
+ module.exports = ColorPropType;
+diff --git a/node_modules/react-native/Libraries/DeprecatedPropTypes/EdgeInsetsPropType.js b/node_modules/react-native/Libraries/DeprecatedPropTypes/EdgeInsetsPropType.js
+index 0000000..1111111 100644
+--- a/node_modules/react-native/Libraries/DeprecatedPropTypes/EdgeInsetsPropType.js
++++ b/node_modules/react-native/Libraries/DeprecatedPropTypes/EdgeInsetsPropType.js
+@@ -1,3 +1,3 @@
+-const EdgeInsetsPropType = require('prop-types');
++const EdgeInsetsPropType = require('deprecated-react-native-prop-types');
+ 
+ module.exports = EdgeInsetsPropType;
+diff --git a/node_modules/react-native/Libraries/DeprecatedPropTypes/PointPropType.js b/node_modules/react-native/Libraries/DeprecatedPropTypes/PointPropType.js
+index 0000000..1111111 100644
+--- a/node_modules/react-native/Libraries/DeprecatedPropTypes/PointPropType.js
++++ b/node_modules/react-native/Libraries/DeprecatedPropTypes/PointPropType.js
+@@ -1,3 +1,3 @@
+-const PointPropType = require('prop-types');
++const PointPropType = require('deprecated-react-native-prop-types');
+ 
+ module.exports = PointPropType;
+diff --git a/node_modules/react-native/Libraries/DeprecatedPropTypes/ViewPropTypes.js b/node_modules/react-native/Libraries/DeprecatedPropTypes/ViewPropTypes.js
+index 0000000..1111111 100644
+--- a/node_modules/react-native/Libraries/DeprecatedPropTypes/ViewPropTypes.js
++++ b/node_modules/react-native/Libraries/DeprecatedPropTypes/ViewPropTypes.js
+@@ -1,3 +1,3 @@
+-const ViewPropTypes = require('prop-types');
++const ViewPropTypes = require('deprecated-react-native-prop-types');
+ 
+ module.exports = ViewPropTypes; 
